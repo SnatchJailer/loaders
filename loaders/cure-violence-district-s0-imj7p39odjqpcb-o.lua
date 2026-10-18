@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/cure-violence-district-s0-imj7p39odjqpcb.lua"))()
