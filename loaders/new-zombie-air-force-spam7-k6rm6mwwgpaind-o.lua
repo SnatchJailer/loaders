@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/new-zombie-air-force-spam7-k6rm6mwwgpaind.lua"))()
