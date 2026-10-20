@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/scrooms-spam2-jx77afz0gp9ran.lua"))()
