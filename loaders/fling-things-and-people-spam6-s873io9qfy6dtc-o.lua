@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/fling-things-and-people-spam6-s873io9qfy6dtc.lua"))()
