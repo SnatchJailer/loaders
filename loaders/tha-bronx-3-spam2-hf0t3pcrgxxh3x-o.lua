@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/tha-bronx-3-spam2-hf0t3pcrgxxh3x.lua"))()
