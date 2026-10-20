@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/shoot-for-eggs-spam2-vec9guctgprgik.lua"))()
