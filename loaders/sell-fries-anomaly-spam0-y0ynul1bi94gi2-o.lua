@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/sell-fries-anomaly-spam0-y0ynul1bi94gi2.lua"))()
