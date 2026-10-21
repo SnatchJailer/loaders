@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/firefighting-sim-spam6-eizepmutidq7ux.lua"))()
