@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/hitbox-changes-azure-latch-spam6-um5lk37xhyars4.lua"))()
