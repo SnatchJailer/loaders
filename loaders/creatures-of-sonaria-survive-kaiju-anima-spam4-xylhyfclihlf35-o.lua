@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/creatures-of-sonaria-survive-kaiju-anima-spam4-xylhyfclihlf35.lua"))()
