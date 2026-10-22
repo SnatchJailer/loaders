@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/upd-forsaken-spam3-nc2d3z1nj1gofx.lua"))()
