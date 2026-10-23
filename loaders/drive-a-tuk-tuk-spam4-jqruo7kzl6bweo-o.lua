@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/drive-a-tuk-tuk-spam4-jqruo7kzl6bweo.lua"))()
