@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/hired-killer-jujutsu-shenanigans-spam5-7cn5oeffm8bq4t.lua"))()
