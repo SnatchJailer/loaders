@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/the-strongest-battlegrounds-spam4-d845fleamd96q7.lua"))()
