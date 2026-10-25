@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/new-quest-dress-to-impress-spam7-0yt52cgpobdrhj.lua"))()
