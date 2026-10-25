@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/huntress-nightmare-spam2-e8onrzq8o5uo3h.lua"))()
