@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/pixel-lineage-spear-class-dragon-race-spam2-qdn0tem8odvbxk.lua"))()
