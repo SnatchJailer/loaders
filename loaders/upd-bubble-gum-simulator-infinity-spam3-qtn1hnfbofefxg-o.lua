@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/upd-bubble-gum-simulator-infinity-spam3-qtn1hnfbofefxg.lua"))()
