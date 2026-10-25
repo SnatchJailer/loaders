@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/brookhaven-rp-spam2-ox990t7mo25cbo.lua"))()
