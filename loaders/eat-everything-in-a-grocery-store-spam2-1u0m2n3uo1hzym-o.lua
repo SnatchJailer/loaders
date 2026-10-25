@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/eat-everything-in-a-grocery-store-spam2-1u0m2n3uo1hzym.lua"))()
