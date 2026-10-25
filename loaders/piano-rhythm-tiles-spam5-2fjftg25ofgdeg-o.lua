@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/piano-rhythm-tiles-spam5-2fjftg25ofgdeg.lua"))()
