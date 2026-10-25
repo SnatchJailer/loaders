@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/highway-patrol-alpha-spam6-8dswjl1qo6hqlv.lua"))()
