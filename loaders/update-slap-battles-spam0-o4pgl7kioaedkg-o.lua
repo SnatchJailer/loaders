@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/update-slap-battles-spam0-o4pgl7kioaedkg.lua"))()
