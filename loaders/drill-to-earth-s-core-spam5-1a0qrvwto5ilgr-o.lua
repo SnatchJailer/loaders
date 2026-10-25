@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/drill-to-earth-s-core-spam5-1a0qrvwto5ilgr.lua"))()
