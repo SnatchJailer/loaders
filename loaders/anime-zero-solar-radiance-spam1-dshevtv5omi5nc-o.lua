@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnatchJailer/loaders/main/loaders/anime-zero-solar-radiance-spam1-dshevtv5omi5nc.lua"))()
